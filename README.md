@@ -9,6 +9,7 @@ RSU-withdraw-local-bank-tutorial
 
 
 ![3](https://github.com/k66inthesky/RSU-withdraw-local-bank-tutorial/assets/45890492/796e3302-49bd-439b-81a3-e9a7a9081386)
+> 註: 圖3的Brokerage/Sell Shares是一個下拉式選單。
 
 ### 常見問題
 + 我幫朋友詢問是否可以不與美林聯繫直接售出股票後匯款至台灣的銀行，與美林聯繫得到結果是No!必須先和美林聯繫。
